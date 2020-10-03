@@ -62,34 +62,45 @@ A few of the things you can do with W.A.M.D.L system:
 * Translation into other languages.
 
 1. **Volunteer page** 
-1.1 Volunteer will have to sign in, in order to transcribe documents.
-![signin](https://user-images.githubusercontent.com/62449446/95002523-06e75780-0610-11eb-89e3-9ffd735d0561.png)
 
-1.2 Collection page for Volunteers (as well as Admin) to visit and upload new transcription.
-![Picture1](https://user-images.githubusercontent.com/62449446/95002608-eec40800-0610-11eb-9cb4-c65f3d6c30e4.png)
+  1.1 Volunteer will have to sign in, in order to transcribe documents.
 
-1.3 Avaliable to view the transcribed documents.  
-![Picture2](https://user-images.githubusercontent.com/62449446/95002600-d18f3980-0610-11eb-9b33-839339584b4b.png)
+  ![signin](https://user-images.githubusercontent.com/62449446/95002523-06e75780-0610-11eb-89e3-9ffd735d0561.png)
 
-1.4 Volunteer (as well as Admin) clicks on the hyperlink of “choose file” on the collection page to upload new transcription.
-![Picture4](https://user-images.githubusercontent.com/62449446/95002576-92f97f00-0610-11eb-85f9-fde70e231768.png)
+  1.2 Collection page for Volunteers (as well as Admin) to visit and upload new transcription.
 
-1.5 Volunteer has the option to edit the transcribed document and save it to the database.
-![Picture6](https://user-images.githubusercontent.com/62449446/95002583-a4db2200-0610-11eb-89c0-cd799bc43ef4.png)
+  ![Picture1](https://user-images.githubusercontent.com/62449446/95002608-eec40800-0610-11eb-9cb4-c65f3d6c30e4.png)
+
+  1.3 Avaliable to view the transcribed documents.  
+
+  ![Picture2](https://user-images.githubusercontent.com/62449446/95002600-d18f3980-0610-11eb-9b33-839339584b4b.png)
+
+  1.4 Volunteer (as well as Admin) clicks on the hyperlink of “choose file” on the collection page to upload new transcription.
+
+  ![Picture4](https://user-images.githubusercontent.com/62449446/95002576-92f97f00-0610-11eb-85f9-fde70e231768.png)
+
+  1.5 Volunteer has the option to edit the transcribed document and save it to the database.
+
+  ![Picture6](https://user-images.githubusercontent.com/62449446/95002583-a4db2200-0610-11eb-89c0-cd799bc43ef4.png)
 
 
 2. **Admin page** 
-2.1 A personal sign in is available in order to manage the website.
-![admin1](https://user-images.githubusercontent.com/62449446/95002650-68f48c80-0611-11eb-86d2-4c04ca4a2991.png)
 
-2.2 After the admin signs in, he/she is redirected to the page shown in the screen dump below.
-![admin2](https://user-images.githubusercontent.com/62449446/95002653-6b56e680-0611-11eb-9f0f-e3172e0c17ed.png)
+  2.1 A personal sign in is available in order to manage the website.
 
-2.3 Admin clicks the “users” tab to manage, add and delete all the users. 
-![admin3](https://user-images.githubusercontent.com/62449446/95002655-6e51d700-0611-11eb-865c-4c3ca9d9449f.png)
+  ![admin1](https://user-images.githubusercontent.com/62449446/95002650-68f48c80-0611-11eb-86d2-4c04ca4a2991.png)
 
-2.4 By clicking on a single user tab, a window pops up where the admin can manage the user’s personal information and can grant permissions.
-![admin4](https://user-images.githubusercontent.com/62449446/95002657-701b9a80-0611-11eb-9791-e054f13d35f4.png)
+  2.2 After the admin signs in, he/she is redirected to the page shown in the screen dump below.
+
+  ![admin2](https://user-images.githubusercontent.com/62449446/95002653-6b56e680-0611-11eb-9f0f-e3172e0c17ed.png)
+
+  2.3 Admin clicks the “users” tab to manage, add and delete all the users. 
+
+  ![admin3](https://user-images.githubusercontent.com/62449446/95002655-6e51d700-0611-11eb-865c-4c3ca9d9449f.png)
+
+  2.4 By clicking on a single user tab, a window pops up where the admin can manage the user’s personal information and can grant permissions.
+
+  ![admin4](https://user-images.githubusercontent.com/62449446/95002657-701b9a80-0611-11eb-9791-e054f13d35f4.png)
 
 
 ## Contributors
