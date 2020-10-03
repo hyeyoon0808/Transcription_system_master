@@ -1,6 +1,7 @@
 <h1 align="center"> W.A.M.D.L System </h1> 
 
 <div align="center"><b>W</b>estern <b>A</b>ustralian <b>M</b>ilitary <b>D</b>igital <b>L</b>ibrary </div>
+<div align="center">Python(Django), TensorFlow, Linux, XAMPP, Bootstrap, MariaDB</div>
 
 <div align="center">
   <b>Clients : </b>Western Australian Genealogical Society and                  Army Museum of Western Australia
