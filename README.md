@@ -7,8 +7,6 @@
 </div>
 <div align="center">
   <b>Team : </b>Manuscript
-</div>
-<div align="center">
 <img src="https://user-images.githubusercontent.com/62449446/95002145-d998aa80-060b-11eb-8f1a-acf215aa9e08.png" width="600px"></img>
 </div>
 
