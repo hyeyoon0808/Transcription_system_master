@@ -7,8 +7,8 @@
 </div>
 <div align="center">
   <b>Team : </b>Manuscript
-  </div>
-  <div>
+</div>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/62449446/95002145-d998aa80-060b-11eb-8f1a-acf215aa9e08.png" width="600px"></img>
 </div>
 
@@ -22,7 +22,7 @@
 
 
 ## Introduction
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62449446/95002419-b4596b80-060e-11eb-8238-9b54c2ad82db.gif)
 The W.A.M.D.L system uploads images from World War I and World War II and transcribe them into a digital format. These images were provided to us from two main museums in Australia which are Western Australian Genealogical Society (WAGS) and Army Museum of Western Australia (AMWA). 
 
 **Available for both Desktop and Mobile.**
@@ -30,7 +30,7 @@ The W.A.M.D.L system uploads images from World War I and World War II and transc
 
 
 ## Build Process
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62449446/95002319-6f810500-060d-11eb-9a99-44c81d606878.gif)
 - Clone or download the repo
 - Install `python 3.6.5`
 - `pip3 install -r requirements.txt` to install packages required to run
@@ -47,7 +47,7 @@ The W.A.M.D.L system uploads images from World War I and World War II and transc
 
 
 ## Features
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62449446/95002376-2da48e80-060e-11eb-96c3-3b10c3724ee9.gif)
 A few of the things you can do with W.A.M.D.L system:
 
 * Login to the system.
