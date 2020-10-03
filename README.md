@@ -23,6 +23,7 @@
 
 ## Introduction
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62449446/95002419-b4596b80-060e-11eb-8238-9b54c2ad82db.gif)
+
 The W.A.M.D.L system uploads images from World War I and World War II and transcribe them into a digital format. These images were provided to us from two main museums in Australia which are Western Australian Genealogical Society (WAGS) and Army Museum of Western Australia (AMWA). 
 
 **Available for both Desktop and Mobile.**
@@ -48,6 +49,7 @@ The W.A.M.D.L system uploads images from World War I and World War II and transc
 
 ## Features
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62449446/95002376-2da48e80-060e-11eb-96c3-3b10c3724ee9.gif)
+
 A few of the things you can do with W.A.M.D.L system:
 
 * Login to the system.
