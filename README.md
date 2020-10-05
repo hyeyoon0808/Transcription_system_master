@@ -33,7 +33,7 @@ The W.A.M.D.L system uploads images from World War I and World War II and transc
 
 
 ## Build Process
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/62449446/95002319-6f810500-060d-11eb-9a99-44c81d606878.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/62449446/95044491-7c3f4f00-071a-11eb-9674-e09b3feca5de.gif)
 - Clone or download the repo
 - Install `python 3.6.5`
 - `pip3 install -r requirements.txt` to install packages required to run
